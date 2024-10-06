@@ -1,0 +1,2 @@
+cd C:\PS-QA\AutomationSep24\OpenCart
+mvn test
